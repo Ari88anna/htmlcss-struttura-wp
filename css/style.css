@@ -1,0 +1,29 @@
+/* reset */
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+/* fine reset */
+
+
+.wrapper {
+    width: 80%;
+    margin: auto;    
+}
+
+
+/* header */
+nav {
+    height:50px;
+    background-color: #DA70D6;
+}
+
+.header-image{
+    height:200px;
+    background-color: #F0E68C;
+    margin-top: 1%;
+}
+/* fine header */
+
+
